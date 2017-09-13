@@ -1,5 +1,5 @@
 # A class to make ATL United players
-class Player(object): # ALWAYS capitalize class names.
+class Player(object): # ALWAYS capitalize class names. MUST include "(object)".
 	# Every class needs to start with def __init__
 	# This function gets run ONCE and ONLY ONCE, when the object is made.
 	# You pass in args when you make the object.
